@@ -1,0 +1,1 @@
+Model Performance RMSE for predicting the weekly number of all crime events at beat level : 7.014053
