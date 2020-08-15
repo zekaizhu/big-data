@@ -1,6 +1,6 @@
 # Big Data 
 
-** Author: Zach Zhu **
+**Author: Zach Zhu**
 
 
 ## Repo structure
